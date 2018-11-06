@@ -19,9 +19,9 @@ var express = require('express'),
 //from there index calls app.js and that does all the work, but its client side
 //need to figure out how to make the post go here instead
 
-  server.listen(8080, () => {
-    console.log('listening on 9999')
-  })
+  // server.listen(5000, () => {
+  //   console.log('listening on 5000')
+  // })
 
 
 server.use(bodyParser.urlencoded({ extended: false }));
@@ -42,18 +42,7 @@ server.get('/', function (req, res) {
 });
 
 
-var LineByLineReader = require('line-by-line'),
-    lr = new LineByLineReader('./static/file.txt');
-	lr.on('error', function (err) {
-		// 'err' contains error object
-	});
-
-	lr.on('line', function (line) {
-		// 'line' contains the current line without the trailing newline character.
-		//console.log(line);
-	});
-
-	lr.on('end', function () {
-		// All lines are read, file is closed now.
-	});
 //server.listen(process.env.PORT || 9999);
+server.listen(process.env.PORT || 9999, () => {
+  console.log('listening on 9999')
+})
