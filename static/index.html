@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>S2S CME</title>
+    <meta name="author" content="Jeff Levensailor">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/img/phone-call.png">
+    <link href="/normalizer.css" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/codemirror.css" type="text/css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/theme/solarized.min.css" type="text/css" />
+    <link href="/refine.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/b8242d251f.js"></script>
+</head>
+
+<style>
+#btn {
+
+  box-shadow: 3px 3px 1.5px #dcdcdc;
+}
+</style>
+<body>
+    <header>
+      <div class="jumbotron text-center">
+        <h1><i class="fa fa-phone"></i> SCCP 2 SIP</h1>
+        <p>A Migration Tool for Cisco Unified Communications Manager Express</p>
+        <button data-toggle="collapse" data-target="#instructions">
+        <span class="glyphicon glyphicon-sunglasses"></span> About
+        </button>
+
+        <div id="instructions" class="collapse">
+          <br>
+        Use this tool to convert ephone, ephone-dn and ephone-template configuration to voice-register equivalents.
+        Paste ephone sections on the left, copy generated code on the right.
+        </div>
+      </div>
+    </header>
+    <div class="container">
+       <div class="row">
+
+        <div class="col-sm-6">
+        <section role="main">
+        <form method="post">
+            <fieldset>
+                <label for="sccp">SCCP Config:</label>
+                <textarea class="form-control" id="sccp" placeholder="SCCP Config"></textarea>
+            </fieldset>
+        </div>
+
+          <div class="col-sm-6">
+            <fieldset class="actions">
+               <label for="sip">SIP Config:</label>
+                <textarea class="form-control" id="sip" placeholder="SIP Config"></textarea>
+            </fieldset>
+          </div>
+
+      </div>
+      <br><center>
+            <fieldset class="actions">
+                <button type="submit" id="btn" class="btn btn-success">Convert <span class="glyphicon glyphicon-share-alt"></span></button>
+            </fieldset>
+          </center>
+        </form>
+      </section>
+  </div>
+</div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/codemirror.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/mode/xml/xml.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/mode/javascript/javascript.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/mode/css/css.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.8.0/mode/htmlmixed/htmlmixed.min.js"></script>
+    <script src="/app.js"></script>
+</body>
+</html>

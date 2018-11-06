@@ -1,0 +1,101 @@
+html {
+    background-color: #e6e6e6;
+}
+
+header {
+    background-color: white;
+}
+
+body {
+    margin: 0px;
+    background-color: white;
+}
+
+section[role="main"], footer {
+  width: 1300px;
+  margin: 0 auto;
+  padding: 15px 40px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 1.75;
+  background-color: white;
+}
+
+header {
+    width: 100%;
+    padding-bottom: 25px;
+    color: white;
+}
+
+h1, h3 {
+	font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    font-size: 12px;
+}
+
+form {
+	overflow: hidden;
+	width: 100%;
+}
+
+fieldset {
+	float:left;
+	border: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+fieldset.actions {
+	float: none;
+    width: 1000px;
+    text-align: center;
+}
+
+legend {
+	text-indent: -999em;
+    height: 0px;
+}
+
+label {
+	display: block;
+	font-weight: bold;
+}
+
+textarea {
+	border-radius: 5px;
+	width: 550px;
+  height: 500px;
+}
+
+button {
+    background: transparent no-repeat scroll 0 0;
+    border: 0px;
+    width: 128px;
+    height: 128px;
+    text-indent: -999em;
+}
+
+
+footer div {
+    margin: 50px 0 30px;
+    padding-top: 50px;
+    font-size: 11px;
+    color: #777;
+    text-transform: uppercase;
+}
+
+footer a:link,
+footer a:active,
+footer a:visited {
+    color: #777;
+}
+
+.CodeMirror {
+    min-width: 550px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}

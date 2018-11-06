@@ -1,0 +1,17 @@
+{
+  "name": "cut",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^5.0.0-alpha.2",
+    "line-by-line": "^0.1.6",
+    "mongodb": "^2.2.11"
+  },
+  "description": "A SCCP to SIP Phone Converter for Cisco CME",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Levensailor",
+  "license": "MIT"
+}

@@ -1,0 +1,4273 @@
+ephone-dn  101  dual-line
+ number 6884 no-reg both
+ label 3362426884
+ description 336242 
+ name Joan Yemiola
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  102  dual-line
+ number 6764 no-reg both
+ label 3362426764
+ description 3362426701
+ name Heather Wagoner
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  103
+!
+!
+ephone-dn  104  dual-line
+ number 6767 no-reg both
+ label 3362426767
+ description 3362426701 
+ name Brian Shipwash
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  105  dual-line
+ number 6762 no-reg both
+ pickup-group 4
+ label 3362426762
+ description 3362426762
+ name Kyle Hutchens
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  106  dual-line
+ number 6763 no-reg both
+ pickup-group 1
+ label 3362426763
+ description 3362426701
+ name Alicia Rickert
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 25
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  107  dual-line
+ number 6766 no-reg both
+ pickup-group 1
+ label 3362426766
+ description 3362426701
+ name Conf Room CSC
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  108  dual-line
+ number 6761 no-reg both
+ pickup-group 1
+ label 3362426761
+ description 3362426701 
+ name Wendi Carter
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  109  dual-line
+ number 6781 no-reg both
+ pickup-group 2
+ label 3362426781
+ description 3362426701
+ name Savannah McGunigal
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  110  dual-line
+ number 6780 no-reg both
+ pickup-group 2
+ label 3362426780
+ description 3362426701
+ name Taylor Dill
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  111  dual-line
+ number 6785 no-reg both
+ pickup-group 2
+ label 3362426785
+ description 3362426701
+ name Maria Britt
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  112  dual-line
+ number 6782 no-reg both
+ pickup-group 2
+ label 3362426782
+ description 3362426701
+ name Brandi Paquin
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  113  dual-line
+ number 6787 no-reg both
+ pickup-group 2
+ label 3362426787
+ description 3362426701
+ name Kristy Tarleton
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  114  dual-line
+ number 6784 no-reg both
+ pickup-group 2
+ label 3362426784
+ description 3362426701
+ name Patricia Carter
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  115  dual-line
+ number 6788 no-reg both
+ pickup-group 2
+ label 3362426788
+ description 3362426701
+ name Susan Bryan
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  116  dual-line
+ number 6783 no-reg both
+ pickup-group 2
+ label 3362426783
+ description 3362426701
+ name Darrien J. Elswick
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  117  dual-line
+ number 6882 no-reg both
+ label 3362426882
+ description 3362426701 
+ name Courtroom F Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  118  dual-line
+ number 6878 no-reg both
+ label 3362426878
+ description 3362426701 
+ name Courtroom D Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  119  dual-line
+ number 6870 no-reg both
+ label 3362426870
+ description 3362426701
+ name Courtroom A Davidson
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  120  dual-line
+ number 6880 no-reg both
+ label 3362426880
+ description 3362426701 
+ name Courtroom E Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  121  dual-line
+ number 6876 no-reg both
+ label 3362426876
+ description 3362426701
+ name Courtroom C 
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  122  dual-line
+ number 6874 no-reg both
+ label 3362426874
+ description 3362426701
+ name Courtroom B Davidson
+ allow watch
+ corlist incoming ch-intl-CSC-6701-css
+!
+!
+ephone-dn  123  dual-line
+ number 6742 no-reg both
+ pickup-group 3
+ label 3362426742
+ description 3362426701 
+ name Jo Black
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  124  octo-line
+ number 6737 no-reg both
+ pickup-group 3
+ label 3362426737
+ description 3362426701
+ name Kierra Bailey
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  125  dual-line
+ number 6736 no-reg both
+ pickup-group 3
+ label 3362426736
+ description 3362426701
+ name Devony Barker
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  126  octo-line
+ number 6738 no-reg both
+ pickup-group 3
+ label 3362426738
+ description 3362426701 
+ name Cathy Payne
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  127  dual-line
+ number 6745 no-reg both
+ pickup-group 3
+ label 3362426745
+ description 3362426701
+ name Kim Cochran 6745
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  128  dual-line
+ number 6740 no-reg both
+ pickup-group 3
+ label 3362426740
+ description 3362426740
+ name Peggy Mitchell
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  129  dual-line
+ number 6746 no-reg both
+ pickup-group 3
+ label 3362426746
+ description 3362426701 
+ name Nyoka King
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  130  dual-line
+ number 6743 no-reg both
+ pickup-group 3
+ label 3362426743
+ description 3362426701 
+ name Tracey Leonard
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  131  dual-line
+ number 6741 no-reg both
+ pickup-group 3
+ label 3362426741
+ description 3362426701 
+ name Crim Front Desk
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  132  octo-line
+ number 6748 no-reg both
+ pickup-group 3
+ label 3362426748
+ description 3362426701 
+ name Jan Nichols
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  133  octo-line
+ number 6747 no-reg both
+ pickup-group 3
+ label 3362426747
+ description 3362426701
+ name Tracie Llewellyn
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  134  octo-line
+ number 6739 no-reg both
+ pickup-group 3
+ label 3362426739
+ description 3362426701 
+ name Danielle Buntin
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  135  octo-line
+ number 6735 no-reg both
+ pickup-group 3
+ label 3362426735
+ description 3362426701
+ name Genny Shuler
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  136  dual-line
+ number 6744 no-reg both
+ pickup-group 3
+ label 3362426744
+ description 3362426701 
+ name Renay Holbrook
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  137  dual-line
+ number 6722 no-reg both
+ pickup-group 4
+ label 3362426722
+ description 3362426722
+ name Lee Clontz
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 20
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  138  dual-line
+ number 6720 no-reg both
+ pickup-group 2
+ label 3362426720
+ description 3362426701
+ name Trisha Harvey
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  139  dual-line
+ number 6723 no-reg both
+ pickup-group 4
+ label 3362426723
+ description 3362426701
+ name Kristi Conrad
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  140  dual-line
+ number 6725 no-reg both
+ pickup-group 4
+ label 3362426725
+ description 3362426701 
+ name Vacant
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  141  dual-line
+ number 6721 no-reg both
+ pickup-group 4
+ label 3362426721
+ description 3362426701
+ name Ana Perez
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  142  dual-line
+ number 6726 no-reg both
+ pickup-group 4
+ label 3362426726
+ description 3362426701
+ name Susan Payne
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  143  dual-line
+ number 6727 no-reg both
+ pickup-group 4
+ label 3362426727
+ description 3362426701
+ name Derrick Shuler
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  144  dual-line
+ number 6724 no-reg both
+ pickup-group 4
+ label 3362426724
+ description 3362426724
+ name Darrick Ignasiak
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  145  dual-line
+ number 6786 no-reg both
+ pickup-group 2
+ label 3362426786
+ description 3362426701 
+ name Vacant
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  146  dual-line
+ number 6789 no-reg both
+ pickup-group 2
+ label 3362426789
+ description 3362426701 
+ name George Price
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  147  dual-line
+ number 6774 no-reg both
+ pickup-group 5
+ label 3362426774
+ description 3362426701
+ name Kasey Gardner
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  148  dual-line
+ number 6773 no-reg both
+ pickup-group 5
+ label 3362426773
+ description 3362426701
+ name Ashley Potts
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  149  dual-line
+ number 6772 no-reg both
+ pickup-group 5
+ label 3362426772
+ description 3362426701
+ name Brook Bryson
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  150  dual-line
+ number 6770 no-reg both
+ pickup-group 5
+ label 3362426770
+ description 3362426701
+ name Lia Glover
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  151  dual-line
+ number 6771 no-reg both
+ pickup-group 5
+ label 3362426771
+ description 3362426701
+ name Susana Torres
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  152  dual-line
+ number 6775 no-reg both
+ pickup-group 5
+ label 3362426775
+ description 3362426701
+ name Jan Nichols
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  153  dual-line
+ number 6828 no-reg both
+ label 3362426828
+ description 3362426710 
+ name DA Annex Conf Room
+ allow watch
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  154  dual-line
+ number 6820 no-reg both
+ label 3362426820
+ description 3362426710
+ name Lauren Stovall
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  155  dual-line
+ number 6809 no-reg both
+ label 3362426809
+ description 3362426710 
+ name Lisa Young
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  156  dual-line
+ number 6806 no-reg both
+ label 3362426806
+ description 3362426710 
+ name Ina Stanton
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  157  dual-line
+ number 6824 no-reg both
+ label 3362426824
+ description 3362426710
+ name Jackie Miller
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  158  dual-line
+ number 6805 no-reg both
+ label 3362426805
+ description 3362426710
+ name Annemarie Ernst
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  159  dual-line
+ number 6825 no-reg both
+ label 3362426825
+ description 3362426710 
+ name Computer Serve Phone Room
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  160  dual-line
+ number 6822 no-reg both
+ label 3362426822
+ description 3362426710
+ name Kaitlyn Jones
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  161  dual-line
+ number 6819 no-reg both
+ label 3362426819
+ description 3362426710 
+ name Kim Hester
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  162  dual-line
+ number 6810 no-reg both
+ label 3362426810
+ description 3362426710 
+ name Mitzi Jones
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  163  dual-line
+ number 6816 no-reg both
+ label 3362426816
+ description 3362426710 
+ name Robert Taylor
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  164  dual-line
+ number 6807 no-reg both
+ label 3362426807
+ description 3362426710 
+ name Cindy Young
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  165  dual-line
+ number 6826 no-reg both
+ label 3362426826
+ description 3362426710 
+ name Stephen Boone
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  166  dual-line
+ number 6829 no-reg both
+ label 3362426829
+ description 3362426710 
+ name Alan Martin
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  167  dual-line
+ number 6813 no-reg both
+ label 3362426813
+ description 3362426710 
+ name Karen Coe
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  168  dual-line
+ number 6814 no-reg both
+ label 3362426814
+ description 3362426710
+ name Anne Gould
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  169  dual-line
+ number 6815 no-reg both
+ label 3362426815
+ description 3362426710
+ name Marissa Kuzbyt
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  170  dual-line
+ number 6812 no-reg both
+ label 3362426812
+ description 3362426710 
+ name Amanda Rackard
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  171  dual-line
+ number 6802 no-reg both
+ label 3362426802
+ description 3362426710 
+ name DA Front Desk
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  172  dual-line
+ number 6823 no-reg both
+ label 3362426823
+ description 3362426710
+ name Pearce Dougan
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  173  dual-line
+ number 6804 no-reg both
+ label 3362426804
+ description 3362426710
+ name Lesia Mayhew
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  174  dual-line
+ number 6817 no-reg both
+ label 3362426817
+ description 3362426710 
+ name Melissa Jackson
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  175  dual-line
+ number 6827 no-reg both
+ label 3362426827
+ description 3362426710 
+ name John Bandle
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  176  dual-line
+ number 6808 no-reg both
+ label 3362426808
+ description 3362426710 
+ name Garry Frank
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  177  dual-line
+ number 6800 no-reg both
+ label 3362426800
+ description 3362426710 
+ name Lisa Harris
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  178  dual-line
+ number 6801 no-reg both
+ label 3362426801
+ description 3362426710 
+ name Renee Byerly
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  179  dual-line
+ number 6818 no-reg both
+ label 3362426818
+ description 3362426710 
+ name Burtis Conley
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  180  dual-line
+ number 6846 no-reg both
+ pickup-group 6
+ label 3362426846
+ description 3362426711 
+ name Judge Rod Penry
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  181  dual-line
+ number 6848 no-reg both
+ pickup-group 6
+ label 3362426848
+ description 3362426711 
+ name Judge Mary Covington
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  182  dual-line
+ number 6847 no-reg both
+ pickup-group 6
+ label 3362426847
+ description 3362426711 
+ name Judge April Wood
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  183  dual-line
+ number 6879 no-reg both
+ label 3362426879
+ description 3362426701 
+ name Chambers  D Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  184  dual-line
+ number 6881 no-reg both
+ label 3362426881
+ description 3362426701 
+ name Chambers  E Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  185  dual-line
+ number 6849 no-reg both
+ pickup-group 6
+ label 3362426849
+ description 3362426711 
+ name Judge Wayne Michael
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  186  dual-line
+ number 6851 no-reg both
+ pickup-group 6
+ label 3362426851
+ description 3362426711 
+ name Barbara Vicente
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  187  dual-line
+ number 6877 no-reg both
+ label 3362426877
+ description 3362426701
+ name Chambers C 
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  188  dual-line
+ number 6850 no-reg both
+ pickup-group 6
+ label 3362426850
+ description 3362426711 
+ name Rosa Terry
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  189  dual-line
+ number 6852 no-reg both
+ label 3362426852
+ description 3362426711 
+ name Paula Teague
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  190  dual-line
+ number 6875 no-reg both
+ label 3362426875
+ description 3362426701 
+ name Chambers  B Davidson
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  191  dual-line
+ number 6811 no-reg both
+ label 3362426811
+ description 3362426710
+ name Vacant
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  192  dual-line
+ no call-waiting beep
+ number 6890 no-reg both
+ label 3362426890
+ description 3362426719
+ name Jamie Davis
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  193  dual-line
+ number 6891 no-reg both
+ label 3362426891
+ description 3362426719
+ name Laura Bodenheimer
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  194  dual-line
+ number 6893 no-reg both
+ label 3362426893
+ description 3362426719
+ name Christy File
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  195  dual-line
+ number 6892 no-reg both
+ label 3362426892
+ description 3362426717
+ name Magistrate Davidson Civil MAG
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  196  dual-line
+ number 6895 no-reg both
+ label 3362426895
+ description 3362426717 
+ name Magistrate Davidson Civil MAG
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  197  dual-line
+ number 6897 no-reg both
+ label 3362426897
+ description 3362426717 
+ name Magistrate Davidson Crim MAG
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  198  dual-line
+ number 6898 no-reg both
+ label 3362426898
+ description 3362426717 
+ name Magistrate Davidson Crim MAG
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  199  dual-line
+ number 2811 no-reg both
+ label DA Overflow 2811
+ description 3362426710
+ name Leatha Hightower
+ allow watch
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  200  dual-line
+ number 6872 no-reg both
+ label 3362426872
+ description 3362426701 
+ name Data Comm Davidson CSC
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  201  dual-line
+ number 6867 no-reg both
+ pickup-group 7
+ label 3362426867
+ description 3362426712 
+ name SCJ File Room
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  202  dual-line
+ number 6865 no-reg both
+ pickup-group 7
+ label 3362426865
+ description 3362426712 
+ name Ted Royster
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  203  dual-line
+ number 6859 no-reg both
+ pickup-group 7
+ label 3362426859
+ description 3362426712 
+ name Jamie Bell
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  204  dual-line
+ number 6862 no-reg both
+ pickup-group 7
+ label 3362426862
+ description 3362426712 
+ name Shirley Leonard
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 24
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  205  dual-line
+ number 6871 no-reg both
+ label 3362426871
+ description 3362426701 
+ name Court A Chambers Davidson CSC
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  206  dual-line
+ number 6868 no-reg both
+ pickup-group 7
+ label 3362426868
+ description 3362426712 
+ name SCJ Conf Room
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  207  dual-line
+ number 6873 no-reg both
+ label 3362426873
+ description 3362426701
+ name Attorney Workroom Davidson CSC
+ allow watch
+ corlist incoming ch-lc-CSC-6701-css
+!
+!
+ephone-dn  208  dual-line
+ number 6860 no-reg both
+ pickup-group 7
+ label 3362426860
+ description 3362426712 
+ name Judge Mark Klass
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  209  dual-line
+ number 6863 no-reg both
+ pickup-group 7
+ label 3362426863
+ description 3362426712 
+ name Library Davidson SCJ
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  210  dual-line
+ number 6858 no-reg both
+ pickup-group 7
+ label 3362426858
+ description 3362426858
+ name William Harkey
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 18
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  211  dual-line
+ number 6765 no-reg both
+ pickup-group 1
+ label 3362426765
+ description 3362426701
+ name CSC Conference
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  212  dual-line
+ number 2765 no-reg both
+ pickup-group 1
+ label Bookkeeping Main 2765
+ description 3362426701
+ name Sara Hutchins
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  213  dual-line
+ number 6821 no-reg both
+ label 6821
+ description 3362426821
+ name Brandi Branch
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  214  dual-line
+ number 6768 no-reg both
+ pickup-group 1
+ label 3362426768
+ description 3362426768
+ name Brooke Bryson
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  215  dual-line
+ number 2767 no-reg both
+ pickup-group 1
+ label Bookkeeping Main 2767
+ description 3362426701 
+ name Brian Shipwash
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  216  dual-line
+ number 2762 no-reg both
+ pickup-group 1
+ label Estates  Main 2762
+ description 3362426701
+ name Vacant 
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  217  dual-line
+ number 2763 no-reg both
+ pickup-group 1
+ label Bookkeeping Main 2763
+ description 3362426701 
+ name Kassie Miller
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  218  dual-line
+ number 2761 no-reg both
+ pickup-group 1
+ label Bookkeeping Main 2761
+ description 3362426701 
+ name Wendi Carter
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  219  dual-line
+ number 2781 no-reg both
+ pickup-group 2
+ label Civil Overflow 2781
+ description 3362426701
+ name Savannah McGunigal
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  220  dual-line
+ number 2780 no-reg both
+ pickup-group 2
+ label Civil Overflow 2780
+ description 3362426701
+ name Brandi Paquin
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  221  dual-line
+ number 2785 no-reg both
+ pickup-group 2
+ label Civil Main 2785
+ description 3362426701
+ name Maria Britt
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  222  dual-line
+ number 2782 no-reg both
+ pickup-group 2
+ label Civil Main 2782
+ description 3362426701
+ name Brandi Paquin
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  223  dual-line
+ number 2787 no-reg both
+ pickup-group 2
+ label Civil Main 2787
+ description 3362426701
+ name Kristy Tarleton
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  224  dual-line
+ number 2784 no-reg both
+ pickup-group 2
+ label Civil Main 2784
+ description 3362426701
+ name Patricia Carter
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  225  dual-line
+ number 2788 no-reg both
+ pickup-group 2
+ label Civil Main 2788
+ description 3362426701
+ name Susan Bryan
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  226  dual-line
+ number 2783 no-reg both
+ pickup-group 2
+ label Civil Overflow 2783
+ description 3362426701
+ name Darrien J. Elswick
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  227  dual-line
+ number 2742 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2742
+ description 3362426701 
+ name Jo Black
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  228  dual-line
+ number 2737 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2737
+ description 3362426701
+ name Kierra Bailey
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  229  dual-line
+ number 2736 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2736
+ description 3362426701
+ name Devony Barker
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  230  dual-line
+ number 2738 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2738
+ description 3362426701 
+ name Cathy Payne
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  231  dual-line
+ number 2745 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2745
+ description 3362426701
+ name Kim Cochran
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  232  dual-line
+ number 2740 no-reg both
+ pickup-group 3
+ label Criminal Main 2740
+ description 3362426701 
+ name Criminal Front Desk
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  233  dual-line
+ number 2746 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2746
+ description 3362426701 
+ name Nyoka King
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  234  dual-line
+ number 2743 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2743
+ description 3362426701 
+ name Tracy Leonard
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  235  dual-line
+ number 2741 no-reg both
+ pickup-group 3
+ label Criminal Main 2741
+ description 3362426701 
+ name Sherry Forrest
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  236  dual-line
+ number 2748 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2748
+ description 3362426701 
+ name Jan Nichols
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  237  dual-line
+ number 2747 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2747
+ description 3362426701
+ name Jacob Ring
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  238  dual-line
+ number 2739 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2739
+ description 3362426701 
+ name Peggy McNeil
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  239  dual-line
+ number 2735 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2735
+ description 3362426701
+ name Genny Shuler
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  240  dual-line
+ number 2744 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2744
+ description 3362426701 
+ name Renay Holbrook
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  241  dual-line
+ number 2722 no-reg both
+ pickup-group 4
+ label 2
+ description 3362426701 
+ name Shelly Norman
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  242  dual-line
+ number 2720 no-reg both
+ pickup-group 2
+ label Juvenile Main 2720
+ name Trisha Barnhardt
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  243  dual-line
+ number 2723 no-reg both
+ pickup-group 4
+ label Estates Main 2723
+ description 3362426701
+ name Kristi Conrad
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  244  dual-line
+ number 2725 no-reg both
+ pickup-group 4
+ label Estates Main 2725
+ description 3362426701 
+ name Estates 6725
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  245  dual-line
+ number 2721 no-reg both
+ pickup-group 4
+ label Estates Main 2721
+ description 3362426701 
+ name Courtney Smith
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  246  dual-line
+ number 2726 no-reg both
+ pickup-group 4
+ label Estates Main 2724
+ description 3362426701
+ name Susan Payne
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  247  dual-line
+ number 2727 no-reg both
+ pickup-group 4
+ label Estates Main 2727
+ description 3362426701
+ name Courtney Everhart
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  248  dual-line
+ number 2724 no-reg both
+ pickup-group 4
+ label Estates Main 2724
+ description 3362426701 
+ name Erica Speas
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  249  dual-line
+ number 2786 no-reg both
+ pickup-group 2
+ label Juvenile Main 2786
+ description 3362426701 
+ name Bonnie Jean Rogers
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  250  dual-line
+ number 2789 no-reg both
+ pickup-group 2
+ label Juvenile Main 2789
+ description 3362426701 
+ name George Price
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  251  dual-line
+ number 2774 no-reg both
+ pickup-group 5
+ label Receipting Main 2774
+ description 3362426701
+ name Kasey Gardner
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  252  dual-line
+ number 2773 no-reg both
+ pickup-group 5
+ label Receipting Main 2773
+ description 3362426701 
+ name Wanda Bass
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  253  dual-line
+ number 2772 no-reg both
+ pickup-group 5
+ label Receipting Main 2772
+ description 3362426701 
+ name Lia Glover
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  254  dual-line
+ number 2770 no-reg both
+ pickup-group 5
+ label Receipting Main 2770
+ description 3362426701
+ name Courtney Hollingsworth
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  255  dual-line
+ number 2771 no-reg both
+ pickup-group 5
+ label Receipting Main 2771
+ description 3362426701 
+ name Cyretta Holt
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  256  dual-line
+ number 2775 no-reg both
+ pickup-group 5
+ label Receipting Main 2775
+ description 3362426701 
+ name Susanna Torres
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  257  dual-line
+ number 2809 no-reg both
+ label DA Overflow 2809
+ description 3362426710 
+ name Lisa Young
+ allow watch
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  258  dual-line
+ number 2819 no-reg both
+ label DA Overflow 2819
+ description 3362426710 
+ name Kim Hester
+ allow watch
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  259  dual-line
+ number 2810 no-reg both
+ label DA Overflow 2810
+ description 3362426710 
+ name Mitzi Easter
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  260  dual-line
+ number 2807 no-reg both
+ label DA Overflow 2807
+ description 3362426710 
+ name Cindy Young
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  261  dual-line
+ number 2813 no-reg both
+ label DA Overflow 2813
+ description 3362426710 
+ name Karen Coe
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  262  dual-line
+ number 2814 no-reg both
+ label DA Overflow 2814
+ description 3362426710
+ name Anne Gould
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  263  dual-line
+ number 2812 no-reg both
+ label DA Overflow 2812
+ description 3362426710 
+ name Amanda Rackard
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  264  dual-line
+ number 2802 no-reg both
+ label DA Overflow 2802
+ description 3362426710 
+ name DA Front Desk
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  265  dual-line
+ number 2817 no-reg both
+ label DA Overflow 2817
+ description 3362426710 
+ name Melissa Jackson
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  266  dual-line
+ number 2801 no-reg both
+ label DA Main 2801
+ description 3362426710 
+ name Renee Byerly
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  267  dual-line
+ number 2818 no-reg both
+ label DA Overflow 2818
+ description 3362426710 
+ name Kristine Slattery
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  268  dual-line
+ number 2849 no-reg both
+ pickup-group 6
+ label DCJ Main 2749
+ description 3362426711 
+ name DCJ Main
+ allow watch
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  269  dual-line
+ number 2850 no-reg both
+ pickup-group 6
+ label DCJ Main 2750
+ description 3362426711 
+ name Paula Teague
+ allow watch
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  270  dual-line
+ number 2852 no-reg both
+ pickup-group 6
+ label DCJ Main 2852
+ description 3362426711 
+ name DCJ Main
+ allow watch
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  271  dual-line
+ number 2890 no-reg both
+ label GAL Main 2890
+ description 3362426719
+ name Christy File
+ allow watch
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  272  dual-line
+ number 2891 no-reg both
+ label GAL Main 2891
+ description 3362426719
+ name Laura Bodenheimer
+ allow watch
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  273  dual-line
+ number 2893 no-reg both
+ label GAL Main 2893
+ description 3362426719
+ name Felicia Wilson
+ allow watch
+ corlist incoming annx-ld-GAL-6719-css
+!
+!
+ephone-dn  274  dual-line
+ number 2897 no-reg both
+ label MAG Main 2897
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  275  dual-line
+ number 2898 no-reg both
+ label MAG Main 2898
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  276  dual-line
+ number 2859 no-reg both
+ pickup-group 7
+ label SCJ_Main 2859
+ description 3362426712 
+ name Jamie Bell
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  277  dual-line
+ number 2862 no-reg both
+ pickup-group 7
+ label SCJ_Main 2862
+ description 3362426712 
+ name Shirley Leonard
+ allow watch
+ corlist incoming annx-ld-SCJ-6712-css
+!
+!
+ephone-dn  278  dual-line
+ number 6834 no-reg both
+ label 3362426834
+ description 3362426834
+ name Dominique Caldwell
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  279  dual-line
+ number 6835 no-reg both
+ label 3362426835
+ description 3362426835
+ name Angela Cole
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming salembld-ld-DA-6710-css
+!
+!
+ephone-dn  280  dual-line
+ number 3740 no-reg both
+ pickup-group 3
+ label CH Default Main 3740
+ description 3362426701 
+ name Melissa Mahan
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  281  dual-line
+ number 3741 no-reg both
+ pickup-group 3
+ label CH Default Main 3741
+ description 3362426701 
+ name Kristen Craver
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  282  dual-line
+ number 3774 no-reg both
+ pickup-group 5
+ label CH Overflow 3774
+ description 3362426701
+ name Kasey Gardner
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  283  dual-line
+ number 3773 no-reg both
+ pickup-group 5
+ label CH Overflow 3773
+ description 3362426701 
+ name Wanda Bass
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  284  dual-line
+ number 3897 no-reg both
+ label Officer Line 3897
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  285  dual-line
+ number 3898 no-reg both
+ label Officer Line 3898
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  286  dual-line
+ number 6749 no-reg both
+ pickup-group 3
+ label 3362426749
+ description 3362426701
+ name Latoya Mitchell
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 15
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  287  dual-line
+ number 3770 no-reg both
+ pickup-group 5
+ label CH Overflow 3770
+ description 3362426701
+ name Courtney Hollingsworth
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  288  dual-line
+ number 3771 no-reg both
+ pickup-group 5
+ label CH Overflow 3771
+ description 3362426701
+ name Cyretta Holt
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  289
+ number 6790 no-reg both
+ call-forward all 1802
+!
+!
+ephone-dn  290  dual-line
+ number 6795 no-reg both
+ label RB TEST PHONE
+ description 3362426795
+ allow watch
+!
+!
+ephone-dn  291  dual-line
+ number 2795 no-reg both
+ label RB TEST 2795
+ allow watch
+!
+!
+ephone-dn  292  dual-line
+ number 6853 no-reg both
+ description Vickie Wolf
+ name Custody Mediation
+ allow watch
+ corlist incoming annx-ld-DCJ-6711-css
+!
+!
+ephone-dn  293  dual-line
+ number 2800 no-reg both
+ label DA Overflow 2800
+ description 3362426710 
+ name Lisa Harris
+ allow watch
+ corlist incoming ch-ld-DA-6710-css
+!
+!
+ephone-dn  294  dual-line
+ number 2762 no-reg both
+ pickup-group 4
+ label Estates Main 2762
+ description 3362426701
+ name Estates 2762
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  302  dual-line
+ number 2892 no-reg both
+ label MAG Main 2892
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  303  dual-line
+ number 3892 no-reg both
+ label Officer Line 3892
+ description 3362426717 
+ allow watch
+ corlist incoming ch-ld-MAG-6717-css
+!
+!
+ephone-dn  304  dual-line
+ number 2749 no-reg both
+ pickup-group 3
+ label Criminal Overflow 2737
+ description 3362426701
+ name Tracy Llewellyn
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  305  dual-line
+ number 6751 no-reg both
+ pickup-group 2
+ label 6751
+ description 3362426751
+ name Paige Cogan
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  306  dual-line
+ number 2751 no-reg both
+ pickup-group 2
+ label Juvenile Main 2720
+ name Paige Cogan
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  307  dual-line
+ number 6830 no-reg both
+ pickup-group 8
+ label 6830
+ description 3362426830
+ name Brooke Swing 6830
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  308  dual-line
+ number 6831 no-reg both
+ pickup-group 8
+ label 6831
+ description 3362426831
+ name Kristine Baker
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 18
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  309  dual-line
+ number 6832 no-reg both
+ pickup-group 8
+ label 6832
+ description 3362426832
+ name Karen Douglas
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 18
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  310  dual-line
+ number 6833 no-reg both
+ pickup-group 8
+ label 6833
+ description 3362426833
+ name DA VWG 6833
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 18
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  311  dual-line
+ number 6803 no-reg both
+ pickup-group 8
+ label 6803
+ description 3362426803
+ name Sonya Spry
+ allow watch
+ call-forward busy 6798
+ call-forward noan 6798 timeout 10
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  312  dual-line
+ number 2803 no-reg both
+ pickup-group 8
+ label 2803
+ name Sonya Spry
+ allow watch
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  313  dual-line
+ number 2832 no-reg both
+ pickup-group 8
+ label 2832
+ name Karen Douglas
+ allow watch
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  314  dual-line
+ number 2831 no-reg both
+ pickup-group 8
+ label 2831
+ name Kristine Baker
+ allow watch
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  315  dual-line
+ number 2830 no-reg both
+ pickup-group 8
+ label 2830
+ name Brooke Swing
+ allow watch
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  316  dual-line
+ number 2821 no-reg both
+ pickup-group 8
+ label VWA 2821
+ name Brandi Branch
+ allow watch
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  317  dual-line
+ number 6745 no-reg both
+ pickup-group 3
+ label 3362426745
+ description 3362426701
+ name Kim Cochran 6745
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  400
+ number 6759 no-reg both
+ description 3362426759
+ name CSC Crim Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  401
+ number 6769 no-reg both
+ description 3362426769
+ name CSC Civil Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  402
+ number 6734 no-reg both
+ description 3362426734
+ name CSC Estates Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  403
+ number 6899 no-reg both
+ description 3362426899
+ name Mag Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  404
+ number 6894 no-reg both
+ description 3362426894
+ name DA Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  405
+ number 6756 no-reg both
+ description 3362426756
+ name GAL Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  406
+ number 6869 no-reg both
+ description 3362426869
+ name SCJ Fax
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  407
+ number 6865 no-reg both
+ description 3362426865
+ name Ted Royster
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  408
+ number 6841 no-reg both
+ description 3362426841
+ name DA Fax-2
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  409
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  410
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  411
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  412
+ number 6842 no-reg both
+ description 3362426842
+ name DA Fax-Dist
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  413
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  414
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  415
+ corlist incoming ch-ld-css
+!
+!
+ephone-dn  416  dual-line
+ number 2768 no-reg both
+ pickup-group 5
+ label Receipting Main 2774
+ description 3362426701
+ name Brook Bryson
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone-dn  417  dual-line
+ number 3768 no-reg both
+ pickup-group 5
+ label CH Overflow 3774
+ description 3362426701
+ name Brook Bryson
+ allow watch
+ corlist incoming ch-ld-CSC-6701-css
+!
+!
+ephone  1
+ device-security-mode none
+ description Joan Yemiola
+ mac-address 001B.D512.2C7D
+ ephone-template 1
+ username "joan_yemiola" password 12345
+ paging-dn 46
+ type 7961GE
+ button  1:101
+!
+!
+!
+ephone  2
+ device-security-mode none
+ description Tracie Llewellyn
+ mac-address 1C17.D3C3.E200
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7965
+ button  1:133 2:237
+!
+!
+!
+ephone  3
+ device-security-mode none
+ description Brian Shipwash
+ mac-address 001B.D47D.9C58
+ ephone-template 1
+ username "brian_shipwash" password 12345
+ blf-speed-dial 1 6763 label "Alicia Rickert"
+ blf-speed-dial 2 6761 label "Wendi"
+ blf-speed-dial 3 6742 label "Jo Black"
+ blf-speed-dial 4 6743 label "Tracy L"
+ blf-speed-dial 5 6751 label "Paige Cogan"
+ blf-speed-dial 6 6787 label "Kristy T"
+ blf-speed-dial 7 6770 label "Lia Glover"
+ blf-speed-dial 8 6726 label "Susan Payne"
+ blf-speed-dial 9 6723 label "Kristi C"
+ blf-speed-dial 10 6721 label "Ana"
+ blf-speed-dial 11 6789 label "George"
+ blf-speed-dial 12 6710 label "DA Office Main"
+ blf-speed-dial 13 6711 label "Judge Chamber"
+ speed-dial 1 92422147 label "Jail 2147"
+ speed-dial 2 92471863 label "Dad Cell"
+ speed-dial 3 92427755 label "Mom Cell"
+ speed-dial 4 92491675 label "M&D Home"
+ speed-dial 5 913368801224 label "Jen's cell"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:104 2s215
+!
+!
+!
+ephone  4
+ device-security-mode none
+ description Kyle Hutchens
+ mac-address 001B.D512.2B60
+ ephone-template 1
+ blf-speed-dial 1 6767 label "Brian"
+ speed-dial 1 92496166 label "Lex Probation"
+ speed-dial 2 94751125 label "Thom Probation"
+ speed-dial 3 92422105 label "Sheriff"
+ paging-dn 46
+ type 7961GE
+ button  1:105 2:294
+!
+!
+!
+ephone  5
+ device-security-mode none
+ description Alicia Rickert
+ mac-address 9CAF.CAFE.1281
+ ephone-template 1
+ username "e2426763" password 12345
+ blf-speed-dial 1 6767 label "Brian"
+ speed-dial 1 93362496166 label "Lex Probation"
+ speed-dial 2 93364751125 label "Thom Probation"
+ speed-dial 3 93362492105 label "Sheriff"
+ paging-dn 46
+ type 7961GE
+ button  1:106 2:217
+!
+!
+!
+ephone  6
+ device-security-mode none
+ description Jenni Williams
+ mac-address 001B.D47D.90C5
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s107 2s104
+!
+!
+!
+ephone  7
+ device-security-mode none
+ description Wendi Carter
+ mac-address 0026.CBBD.D6D3
+ ephone-template 1
+ username "wendi_carter" password 12341234
+ blf-speed-dial 1 6767 label "Brian"
+ speed-dial 1 93362496166 label "Lex Probation"
+ speed-dial 2 93364751125 label "Thom Probation"
+ speed-dial 3 93362422105 label "Sheriff"
+ paging-dn 46
+ type 7965
+ button  1:108 2:218
+!
+!
+!
+ephone  8
+ device-security-mode none
+ description Kacie Wilson
+ mac-address 001B.D47D.9C4B
+ ephone-template 1
+ blf-speed-dial 1 6780 label "Taylor"
+ blf-speed-dial 2 6782 label "Brandi"
+ blf-speed-dial 3 6783 label "Darrien"
+ blf-speed-dial 4 6787 label "Kristy"
+ blf-speed-dial 5 6788 label "Susan B"
+ blf-speed-dial 6 6785 label "Maria"
+ blf-speed-dial 7 6784 label "Trish"
+ blf-speed-dial 8 6789 label "George"
+ blf-speed-dial 9 6786 label "Vacant"
+ blf-speed-dial 10 6706 label "CS"
+ blf-speed-dial 11 6707 label "Book"
+ blf-speed-dial 12 6705 label "Est/SP"
+ blf-speed-dial 13 6702 label "CR"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:109 2:219
+!
+!
+!
+ephone  9
+ device-security-mode none
+ description Taylor Dill
+ mac-address 001B.2A20.5EF1
+ ephone-template 1
+ blf-speed-dial 1 6781 label "Savannah"
+ blf-speed-dial 2 6782 label "Brandi"
+ blf-speed-dial 3 6783 label "Darrien"
+ blf-speed-dial 4 6787 label "Kristy"
+ blf-speed-dial 5 6788 label "Susan B"
+ blf-speed-dial 6 6785 label "Maria"
+ blf-speed-dial 7 6784 label "Patricia "
+ blf-speed-dial 8 6789 label "George"
+ blf-speed-dial 9 6786 label "Vacant"
+ blf-speed-dial 10 6706 label "CS"
+ blf-speed-dial 11 6707 label "Bookkeeping"
+ blf-speed-dial 12 6705 label "Estates/Spec Proc"
+ blf-speed-dial 13 6702 label "Criminal"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:110 2:220
+!
+!
+!
+ephone  10
+ device-security-mode none
+ description Maria Britt
+ mac-address 001B.D512.27FA
+ ephone-template 1
+ paging-dn 46
+ type 7961GE
+ button  1:111 2:221
+!
+!
+!
+ephone  11
+ device-security-mode none
+ description Brandi Paquin
+ mac-address 001B.D512.2BF0
+ ephone-template 1
+ paging-dn 46
+ type 7961GE
+ button  1:112 2:222
+!
+!
+!
+ephone  12
+ device-security-mode none
+ description Kristy Tarleton
+ mac-address 001B.D512.2D3F
+ ephone-template 1
+ username "e2426787" password and17881
+ paging-dn 46
+ type 7961GE
+ button  1:113 2:223
+!
+!
+!
+ephone  13
+ device-security-mode none
+ description Patricia Carter
+ mac-address 0023.5EB8.2A33
+ ephone-template 1
+ paging-dn 46
+ type 7965
+ button  1:114 2:224
+!
+!
+!
+ephone  14
+ device-security-mode none
+ description Susan Bryan
+ mac-address 001B.D512.2EA1
+ ephone-template 1
+ username "e2426788" password 12345
+ paging-dn 46
+ type 7961GE
+ button  1:115 2:225
+!
+!
+!
+ephone  15
+ device-security-mode none
+ description Darrien J. Elswick
+ mac-address FCFB.FB10.5353
+ ephone-template 1
+ paging-dn 46
+ type 7965
+ button  1:116 2:226
+!
+!
+!
+ephone  16
+ device-security-mode none
+ description Courtroom F Davidson
+ mac-address 001B.D47D.90A0
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:117
+!
+!
+!
+ephone  17
+ device-security-mode none
+ description Courtroom D Davidson
+ mac-address 001B.D4A0.BF04
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s118
+!
+!
+!
+ephone  18
+ device-security-mode none
+ description Courtroom A Davidson
+ mac-address 001B.D512.2EC3
+ ephone-template 1
+ blf-speed-dial 1 6703 label "Criminal 6703"
+ blf-speed-dial 2 6707 label "Bookkeeping 6707"
+ blf-speed-dial 3 6742 label "Jo Black"
+ paging-dn 45
+ type 7961GE
+ button  1s119
+!
+!
+!
+ephone  19
+ device-security-mode none
+ description Courtroom E Davidson
+ mac-address 0019.30C8.B6DA
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s120 2s184
+!
+!
+!
+ephone  20
+ device-security-mode none
+ description Courtroom C
+ mac-address 04FE.7F68.7ADB
+ ephone-template 1
+ paging-dn 45
+ type 7965
+ button  1s121 2s187
+!
+!
+!
+ephone  21
+ device-security-mode none
+ description Courtroom B Davidson
+ mac-address 001B.D512.3185
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s122 2s190
+!
+!
+!
+ephone  22
+ device-security-mode none
+ description Jo Black
+ mac-address 001B.D47D.9019
+ ephone-template 1
+ username "jo_black" password 12345
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:123 2:227
+!
+!
+!
+ephone  23
+ device-security-mode none
+ description Kierra Bailey
+ mac-address 001B.D47D.9C69
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:124 2:228
+!
+!
+!
+ephone  24
+ device-security-mode none
+ description Melissa Moody
+ mac-address 001B.D47D.9CD3
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:125 2:229
+!
+!
+!
+ephone  25
+ device-security-mode none
+ description Cathy Payne
+ mac-address 001B.D47D.9CE2
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:126 2:230
+!
+!
+!
+ephone  26
+ device-security-mode none
+ description Kim Cochran
+ mac-address 001B.D47D.9F03
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:317 2:231
+!
+!
+!
+ephone  27
+ device-security-mode none
+ description Peggy Mitchell
+ mac-address 001B.D512.28F4
+ ephone-template 1
+ blf-speed-dial 1 6746 label "Nyoka King"
+ blf-speed-dial 2 6739 label "Danielle Buntin"
+ blf-speed-dial 3 6748 label "Jan Nichols"
+ blf-speed-dial 4 6744 label "Renay Holbrook"
+ blf-speed-dial 5 6745 label "Kim Cochran "
+ blf-speed-dial 6 6735 label "Genny Shuler"
+ blf-speed-dial 7 6736 label "Devony Barker"
+ blf-speed-dial 8 6747 label "Tracie LLewellyn"
+ blf-speed-dial 9 6737 label "Kierra Bailey"
+ blf-speed-dial 10 6705 label "Estates"
+ blf-speed-dial 11 6704 label "Civil"
+ blf-speed-dial 12 6706 label "Cash Recipting"
+ blf-speed-dial 13 6749 label "Latoya Mitchell"
+ blf-speed-dial 14 6707 label "Bookkeeping"
+ speed-dial 1 92422147 label "Jail 2147"
+ speed-dial 2 92422109 label "Sherrif's Office Records"
+ speed-dial 3 919198613050 label "DMV"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:128 2:232 3:280
+!
+!
+!
+ephone  28
+ device-security-mode none
+ description Nyoka King
+ mac-address 001B.D512.293E
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:129 2:233
+!
+!
+!
+ephone  29
+ device-security-mode none
+ description Tracy Leonard
+ mac-address 001B.D512.297E
+ ephone-template 1
+ username "tracy_leonard" password 12345
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:130 2:234
+!
+!
+!
+ephone  30
+ device-security-mode none
+ description Criminal Front Desk
+ mac-address 001B.0CDB.A4F7
+ ephone-template 1
+ blf-speed-dial 1 6746 label "Nyoka King"
+ blf-speed-dial 2 6739 label "Danielle Buntin"
+ blf-speed-dial 3 6748 label "Jan Nichols"
+ blf-speed-dial 4 6744 label "Renay Holbrook"
+ blf-speed-dial 5 6745 label "Kim Cochran "
+ blf-speed-dial 6 6735 label "Genny Shuler"
+ blf-speed-dial 7 6736 label "Devony Barker"
+ blf-speed-dial 8 6747 label "Tracie LLewellyn"
+ blf-speed-dial 9 6737 label "Kierra Bailey"
+ blf-speed-dial 10 6749 label "Latoya Mitchell"
+ blf-speed-dial 11 6705 label "Estates"
+ blf-speed-dial 12 6704 label "Civil"
+ blf-speed-dial 13 6706 label "Cash Recipting"
+ blf-speed-dial 14 6707 label "Bookkeeping"
+ speed-dial 1 92422147 label "Jail 2147"
+ speed-dial 2 92422109 label "Sherrif's Office Records"
+ speed-dial 3 919198613050 label "DMV"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:131 2:235 3:281
+!
+!
+!
+ephone  31
+ device-security-mode none
+ description Jan Nichols
+ mac-address 001B.D512.2C90
+ ephone-template 1
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "SheriffRecords"
+ paging-dn 46
+ type 7961GE
+ button  1:132 2:236
+!
+!
+!
+ephone  32
+ device-security-mode none
+ description Tracie Llewellyn
+ mac-address 001B.D512.2DEE
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:133 2:237
+!
+!
+!
+ephone  33
+ device-security-mode none
+ description Danielle Buntin
+ mac-address 0023.5EB8.29B4
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7965
+ button  1:134 2:238
+!
+!
+!
+ephone  34
+ device-security-mode none
+ description Genny Shuler
+ mac-address 34A8.4EA6.B250
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7965
+ button  1:135 2:239
+!
+!
+!
+ephone  35
+ device-security-mode none
+ description Renay Holbrook
+ mac-address 001B.D512.3202
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ speed-dial 4 92422126 label "Connie Jail"
+ paging-dn 46
+ type 7961GE
+ button  1:136 2:240
+!
+!
+!
+ephone  36
+ device-security-mode none
+ description Lee Clontz
+ mac-address 0019.30C8.B62D
+ ephone-template 1
+ username "Shelly_Norman" password gar06848
+ speed-dial 1 6751 label "paige"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sherrif's Office"
+ paging-dn 46
+ type 7961GE
+ button  1:137 2:241
+!
+!
+!
+ephone  37
+ device-security-mode none
+ description Trisha Harvey
+ mac-address 0023.5EB8.1A78
+ ephone-template 1
+ username "e2426720" password 12345
+ speed-dial 1 92422150 label "Register of Deeds"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sherrif's Office"
+ paging-dn 46
+ type 7965
+ button  1:138 2:242
+!
+!
+!
+ephone  38
+ device-security-mode none
+ description Kristi Conrad
+ mac-address 001B.D47D.96C8
+ ephone-template 1
+ username "e2426723" password 12345
+ blf-speed-dial 1 6767 label "Brian Shipwash"
+ blf-speed-dial 2 6721 label "Ana Perez"
+ blf-speed-dial 3 6727 label "Derrick Shuler"
+ blf-speed-dial 4 6723 label "Kristi Conrad"
+ blf-speed-dial 5 6722 label "Lee Clontz"
+ blf-speed-dial 6 6724 label "Darrick Ignasiak"
+ blf-speed-dial 7 6742 label "Jo Black"
+ blf-speed-dial 8 6787 label "Kristy Tarleton"
+ blf-speed-dial 9 6770 label "Lia Glover"
+ blf-speed-dial 10 6761 label "Wendi Carter"
+ blf-speed-dial 11 6704 label "CIVIL 6704"
+ blf-speed-dial 12 6706 label "CASHIER 6706"
+ blf-speed-dial 13 6702 label "CRIMINAL 6702"
+ blf-speed-dial 14 6709 label "JUVENILE 6709"
+ blf-speed-dial 15 6709 label "JUVENILE 6709"
+ blf-speed-dial 16 92422150 label "Register of Deeds"
+ blf-speed-dial 17 92422160 label "Tax Office"
+ blf-speed-dial 18 92422243 label "Sherrif's Office"
+ speed-dial 1 92422150 label "Register of Deeds"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sherrif's Office"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:139 2:243
+!
+!
+!
+ephone  39
+ device-security-mode none
+ description Teresa Gregg
+ mac-address 001B.D47D.9E0C
+ ephone-template 1
+ speed-dial 1 92422150 label "Register of Deeds"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sherrif's Office"
+ paging-dn 46
+ type 7961GE
+ button  1:140 2s244
+!
+!
+!
+ephone  40
+ device-security-mode none
+ description Ana Perez
+ mac-address 001B.D512.2AC7
+ ephone-template 1
+ username "Courtney_Smith" password rrz23417
+ blf-speed-dial 1 6767 label "Brian Shipwash"
+ blf-speed-dial 2 6726 label "Susan Payne"
+ blf-speed-dial 3 6720 label "Trisha Harvey 6720"
+ blf-speed-dial 4 6727 label "Derrick Shuler"
+ blf-speed-dial 5 6724 label "Darrick Ignasiak"
+ blf-speed-dial 6 6722 label "Lee Clontz"
+ blf-speed-dial 7 6723 label "Kristi Conrad"
+ blf-speed-dial 8 6704 label "Civil"
+ blf-speed-dial 9 6706 label "Cashier"
+ blf-speed-dial 10 6702 label "Criminal"
+ blf-speed-dial 11 6707 label "Bookkeeping"
+ blf-speed-dial 12 6709 label "Juvenile"
+ blf-speed-dial 13 6709 label "Juvenile"
+ speed-dial 1 92422150 label "Register of Deeds"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sheriff's Office"
+ paging-dn 46
+ type 7961GE addon 1 7914
+ button  1:141 2:245
+!
+!
+!
+ephone  41
+ device-security-mode none
+ description John Penry
+ mac-address 001B.D47D.9786
+ ephone-template 1
+ paging-dn 180
+ type 7961GE
+ button  1:180
+!
+!
+!
+ephone  42
+ device-security-mode none
+ description Derrick Shuler
+ mac-address 001B.D512.2B90
+ ephone-template 1
+ username "Courtney_Everhart" password mjj62288
+ fastdial 1 6751 name PAIGE
+ speed-dial 1 6735 label "GENNY"
+ speed-dial 2 6751 label "PAIGE"
+ paging-dn 46
+ type 7961GE
+ button  1:143 2:247
+!
+!
+!
+ephone  43
+ device-security-mode none
+ description Darrick Ignasiak
+ mac-address 001B.D5E8.1438
+ ephone-template 1
+ username "Erica_Speas" password noq70079
+ speed-dial 1 92422150 label "Register of Deeds"
+ speed-dial 2 92422160 label "Tax Office"
+ speed-dial 3 92422243 label "Sherrif's Office"
+ paging-dn 46
+ type 7961GE
+ button  1:144 2:248
+!
+!
+!
+ephone  44
+ device-security-mode none
+ description Vacant
+ mac-address 001B.D47D.9057
+ ephone-template 1
+ paging-dn 46
+ type 7961GE
+ button  1:145 2:249
+!
+!
+!
+ephone  45
+ device-security-mode none
+ description George Price
+ mac-address 001B.D512.2C33
+ ephone-template 1
+ username "george_price" password 12345
+ paging-dn 46
+ type 7961GE
+ button  1:146 2:250
+!
+!
+!
+ephone  46
+ device-security-mode none
+ description Kasey Gardner
+ mac-address 001B.D47D.9C20
+ ephone-template 1
+ username "e2426774" password 12345
+ speed-dial 1 918774872778 label "Passport"
+ speed-dial 2 92422256 label "Child Support MC"
+ speed-dial 3 92363036 label "Child Support NB"
+ speed-dial 4 94745005 label "Tville Support"
+ paging-dn 46
+ type 7961GE
+ button  1:147 2:251 3:282
+!
+!
+!
+ephone  47
+ device-security-mode none
+ description Ashley Potts
+ mac-address AAAA.D47D.9C58
+ ephone-template 1
+ speed-dial 1 918774872778 label "Passport"
+ speed-dial 2 92422256 label "Child Support MC"
+ speed-dial 3 92363036 label "Child Support NB"
+ speed-dial 4 94745005 label "Tville Support"
+ paging-dn 46
+ type 7961GE
+ button  1:148 2s252 3:283
+!
+!
+!
+ephone  48
+ device-security-mode none
+ description Brook Bryson
+ mac-address 001B.D47D.9C68
+ ephone-template 1
+ speed-dial 1 94745005 label "Tville Support"
+ speed-dial 2 918774872778 label "Passport"
+ speed-dial 3 92422256 label "Child Support MC"
+ speed-dial 4 92363036 label "Child Support NB"
+ paging-dn 46
+ type 7961GE
+ button  1:149 2s253
+!
+!
+!
+ephone  49
+ device-security-mode none
+ description Lia Glover
+ mac-address 0018.195A.A889
+ ephone-template 1
+ username "e2426770" password 1234
+ fastdial 1 94743181 name Tville._CSC
+ speed-dial 1 94745005 label "Tville Support"
+ speed-dial 2 918774872778 label "Passport"
+ speed-dial 3 92422256 label "Child Support MC"
+ speed-dial 4 92363036 label "Child Support NB"
+ paging-dn 46
+ type 7961GE
+ button  1:150 2:254 3:287
+!
+!
+!
+ephone  50
+ device-security-mode none
+ description Susana Torres
+ mac-address 001B.D47D.9BFB
+ ephone-template 1
+ speed-dial 1 94745005 label "Tville Support"
+ speed-dial 2 918774872778 label "Passport"
+ speed-dial 3 92422256 label "Child Support MC"
+ speed-dial 4 92363036 label "Child Support NB"
+ paging-dn 46
+ type 7961GE
+ button  1:151 2:254 3:288
+!
+!
+!
+ephone  51
+ device-security-mode none
+ description Jan Nichols
+ mac-address 001B.D512.2DB9
+ ephone-template 1
+ fastdial 1 6764 name bookeeping
+ paging-dn 46
+ type 7961GE
+ button  1:152 2:256
+!
+!
+!
+ephone  52
+ device-security-mode none
+ description DA Annex Conf Room
+ mac-address 001B.D5E8.1303
+ ephone-template 1
+ paging-dn 47
+ type 7961GE
+ button  1:153
+!
+!
+!
+ephone  53
+ device-security-mode none
+ description Lauren Stovall
+ mac-address 001B.0CDB.9D6F
+ ephone-template 1
+ username "e2426820" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:154
+!
+!
+!
+ephone  54
+ device-security-mode none
+ description Lisa Young
+ mac-address 001B.D47D.916E
+ ephone-template 2
+ username "lisa_young" password 12345
+ blf-speed-dial 1 6808 label "Garry Frank"
+ speed-dial 1 94754260 label "Thomasville Police Dept"
+ speed-dial 2 92433331 label "Lexington Police Dept"
+ speed-dial 3 92422105 label "Davidson County Sheriff"
+ paging-dn 47
+ type 7961GE
+ button  1:155 2:257 3:176
+!
+!
+!
+ephone  55
+ device-security-mode none
+ description Ina Stanton
+ mac-address 1C17.D3C3.E150
+ ephone-template 1
+ username "ina_stanton" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7965
+ button  1:156
+!
+!
+!
+ephone  56
+ device-security-mode none
+ description Jackie Miller
+ mac-address 001B.D47D.9C0D
+ ephone-template 1
+ username "e2426824" password hip86823
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:157
+!
+!
+!
+ephone  57
+ device-security-mode none
+ description Annemarie Ernst
+ mac-address 34A8.4EA6.B5D1
+ ephone-template 1
+ username "e2426805" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7965
+ button  1:158
+!
+!
+!
+ephone  58
+ device-security-mode none
+ description Brooke Bryson
+ mac-address ACA0.166F.1B40
+ ephone-template 1
+ username "e2426768" password mvp23085
+ blf-speed-dial 1 6767 label "Brian Shipwash"
+ blf-speed-dial 2 6789 label "George Price"
+ blf-speed-dial 3 6761 label "Wendi Carter"
+ blf-speed-dial 4 6770 label "Lia Glover"
+ blf-speed-dial 5 6723 label "Kristi Conrad"
+ blf-speed-dial 6 6726 label "Susan Payne"
+ blf-speed-dial 7 6787 label "Kristy Tarleton"
+ blf-speed-dial 8 6785 label "Maria Britt"
+ blf-speed-dial 9 6742 label "Jo Black"
+ blf-speed-dial 10 6743 label "Tracey Leonard"
+ paging-dn 46
+ type 7965 addon 1 7916-24
+ button  1:214 2:416 3:417
+!
+!
+!
+ephone  59
+ device-security-mode none
+ description Kaitlyn Jones
+ mac-address 001B.D47D.9CB9
+ ephone-template 1
+ username "e2426822" password esp27611
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422140 label "Jail"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:160
+!
+!
+!
+ephone  60
+ device-security-mode none
+ description Kimmie Hester
+ mac-address 001B.D47D.9CCF
+ ephone-template 2
+ username "kim_hester" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:161 2:258
+!
+!
+!
+ephone  61
+ device-security-mode none
+ description Mitzi Jones
+ mac-address 001B.D512.2F21
+ ephone-template 2
+ username "mitzi_easter" password 12345
+ blf-speed-dial 1 6829 label "Alan Martin"
+ blf-speed-dial 2 6812 label "Amanda Rackard"
+ blf-speed-dial 3 6814 label "Anne Gould"
+ blf-speed-dial 4 6830 label "Brooke Swing"
+ blf-speed-dial 5 6818 label "Burt Conley"
+ blf-speed-dial 6 6807 label "Cindy Young"
+ blf-speed-dial 7 6802 label "DA Front Desk"
+ blf-speed-dial 8 6808 label "Garry Frank"
+ blf-speed-dial 9 6805 label "Annemarie Ernst"
+ blf-speed-dial 10 6806 label "Ina Stanton"
+ blf-speed-dial 11 6827 label "John Bandle"
+ blf-speed-dial 12 6824 label "Jackie Miller"
+ blf-speed-dial 13 6822 label "Kaitlyn Jones"
+ blf-speed-dial 14 6813 label "Karen Coe"
+ blf-speed-dial 15 6832 label "Karen Douglas"
+ blf-speed-dial 16 6819 label "Kim Hester"
+ blf-speed-dial 17 6831 label "Kristine Baker"
+ blf-speed-dial 18 6804 label "Lesia Mayhew"
+ blf-speed-dial 19 6800 label "Lisa Harris"
+ blf-speed-dial 20 6809 label "Lisa Young"
+ blf-speed-dial 21 6817 label "Melissa Jackson"
+ blf-speed-dial 22 6815 label "Marissa Kuzbyt"
+ blf-speed-dial 23 6820 label "Lauren Stovall"
+ blf-speed-dial 24 6823 label "Pearce Dougan"
+ blf-speed-dial 25 6801 label "Renee Byerly"
+ blf-speed-dial 26 6816 label "Robert Taylor"
+ blf-speed-dial 27 6803 label "Sonya Spry"
+ blf-speed-dial 28 6826 label "Stephen Boone"
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ paging-dn 47
+ type 7961GE addon 1 7914 2 7914
+ button  1:162 2:259
+!
+!
+!
+ephone  62
+ device-security-mode none
+ description Robert Taylor
+ mac-address 001B.D47D.9E83
+ ephone-template 1
+ username "robert_taylor" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:163
+!
+!
+!
+ephone  63
+ device-security-mode none
+ description Cindy Young
+ mac-address 001B.D47D.9EA6
+ ephone-template 2
+ username "cindy_young" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:164 2:260
+!
+!
+!
+ephone  64
+ device-security-mode none
+ description Stephen Boone
+ mac-address 001B.D512.27A1
+ ephone-template 1
+ username "stephen_boone" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:165
+!
+!
+!
+ephone  65
+ device-security-mode none
+ description Alan MArtin
+ mac-address 001B.D512.284F
+ ephone-template 1
+ username "alan_martin" password 12345
+ speed-dial 1 92433331 label "LPD"
+ speed-dial 2 92422105 label "DCSO"
+ speed-dial 3 94754260 label "TPD"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:166
+!
+!
+!
+ephone  66
+ device-security-mode none
+ description CSC Conference
+ mac-address 34A8.4EA6.B0F5
+ ephone-template 1
+ username "e2426765" password 12345
+ paging-dn 46
+ type 7965
+ button  1:211 2:104
+!
+!
+!
+ephone  67
+ device-security-mode none
+ description Brandi Branch
+ mac-address 203A.07FD.31DC
+ ephone-template 2
+ username "e2426821" password 12345
+ speed-dial 1 913362436715 label "Carter"
+ paging-dn 47
+ type 7965
+ button  1:213 2:316
+!
+!
+!
+ephone  68
+ device-security-mode none
+ description Marissa Kuzbyt
+ mac-address 001B.D512.28C8
+ ephone-template 1
+ username "e2426815" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:169
+!
+!
+!
+ephone  69
+ device-security-mode none
+ description Amanda Rackard
+ mac-address 001B.D512.292B
+ ephone-template 2
+ username "amanda_rackard" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:170 2:263
+!
+!
+!
+ephone  70
+ device-security-mode none
+ description Front Desk addtnl phone
+ mac-address 001B.D512.299A
+ ephone-template 2
+ username "da _front_ desk" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:171 2:264
+!
+!
+!
+ephone  71
+ device-security-mode none
+ description Pearce Dougan
+ mac-address 001B.D512.29AE
+ ephone-template 1
+ username "e2426823" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:172
+!
+!
+!
+ephone  72
+ device-security-mode none
+ description Lesia Mayhew
+ mac-address 001B.D512.2AC4
+ ephone-template 1
+ username "e2426804" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:173
+!
+!
+!
+ephone  73
+ device-security-mode none
+ description Melissa Jackson
+ mac-address 001B.D512.2AE4
+ ephone-template 2
+ username "melissa_jackson" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:174 2:265
+!
+!
+!
+ephone  74
+ device-security-mode none
+ description John Bandle
+ mac-address 001B.D5E8.1446
+ ephone-template 1
+ username "john_bandle" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:175
+!
+!
+!
+ephone  75
+ device-security-mode none
+ description Garry Frank
+ mac-address 001B.D512.2B79
+ ephone-template 1
+ username "garry_frank" password 12345
+ blf-speed-dial 1 6807 label "Cindy"
+ blf-speed-dial 2 6809 label "Lisa Young"
+ blf-speed-dial 3 6816 label "Rob"
+ blf-speed-dial 4 6860 label "Mark Klass"
+ blf-speed-dial 5 6849 label "Wayne Michael"
+ blf-speed-dial 6 6827 label "Michelle"
+ blf-speed-dial 7 6767 label "Brian"
+ speed-dial 1 94754260 label "Thomasville Police Dept"
+ speed-dial 2 913362561362 label "SBI Greensboro"
+ speed-dial 3 918282942226 label "SBI Hickory"
+ speed-dial 4 913367516238 label "Davie Sheriff"
+ speed-dial 5 913367516231 label "Mocksville PD"
+ speed-dial 6 917048784291 label "Alan"
+ speed-dial 7 94621516 label "Johnny's Cell"
+ speed-dial 8 917048784331 label "Sandra"
+ speed-dial 9 913367513507 label "Ken Boger"
+ speed-dial 10 92433331 label "Lexington Police Dept"
+ speed-dial 11 92422105 label "Davidson County Sheriff"
+ paging-dn 47
+ type 7961GE addon 1 7914
+ button  1:176
+!
+!
+!
+ephone  76
+ device-security-mode none
+ description Lisa Harris
+ mac-address 001B.D47D.9E5D
+ ephone-template 3
+ username "lisa_harris" password 12345
+ blf-speed-dial 1 6808 label "Garry Frank"
+ blf-speed-dial 2 6816 label "Rob Taylor"
+ blf-speed-dial 3 6804 label "Lesia Mayhew"
+ blf-speed-dial 4 6817 label "Melissa"
+ blf-speed-dial 5 6818 label "Kristine"
+ blf-speed-dial 6 6813 label "Karen Coe"
+ blf-speed-dial 7 6814 label "Anne Gould"
+ blf-speed-dial 8 6805 label "Annemarie Ernst"
+ blf-speed-dial 9 6824 label "Jackie Miller"
+ blf-speed-dial 10 6826 label "Steve Boone"
+ blf-speed-dial 11 6822 label "Kaitlyn Jones"
+ blf-speed-dial 12 6827 label "John B"
+ blf-speed-dial 13 6806 label "Ina Stanton"
+ blf-speed-dial 14 6820 label "Lauren Stovall"
+ blf-speed-dial 15 6801 label "Renee"
+ blf-speed-dial 16 6807 label "Cindy"
+ blf-speed-dial 17 6818 label "Kim"
+ blf-speed-dial 18 6809 label "Lisa"
+ blf-speed-dial 19 6810 label "Mitzi J"
+ blf-speed-dial 20 6823 label "Sheri"
+ blf-speed-dial 21 6820 label "Lauren"
+ blf-speed-dial 22 6815 label "Marissa"
+ speed-dial 1 92422147 label "Jail 2147"
+ speed-dial 2 92433331 label "Lexington Police Dept"
+ speed-dial 3 92422105 label "Davidson County Sheriff"
+ speed-dial 4 94754260 label "Thomasville Police Dept"
+ paging-dn 47
+ type 7961GE
+ button  1:177 2:293
+!
+!
+!
+ephone  77
+ device-security-mode none
+ description Renee Byerly
+ mac-address 001B.D512.30E6
+ ephone-template 2
+ username "renee_byerly" password 12345
+ blf-speed-dial 1 6829 label "Alan Martin"
+ blf-speed-dial 2 6812 label "Amanda Rackard"
+ blf-speed-dial 3 6814 label "Anne Gould"
+ blf-speed-dial 4 6830 label "Brooke Swing"
+ blf-speed-dial 5 6818 label "Burt Conley"
+ blf-speed-dial 6 6807 label "Cindy Young"
+ blf-speed-dial 7 6802 label "DA Front Desk"
+ blf-speed-dial 8 6808 label "Garry Frank"
+ blf-speed-dial 9 6805 label "Annemarie Ernst"
+ blf-speed-dial 10 6806 label "Ina Stanton"
+ blf-speed-dial 11 6827 label "John Bandle"
+ blf-speed-dial 12 6824 label "Jackie Miller"
+ blf-speed-dial 13 6822 label "Kaitlyn Jones"
+ blf-speed-dial 14 6813 label "Karen Coe"
+ blf-speed-dial 15 6832 label "Karen Douglas"
+ blf-speed-dial 16 6819 label "Kim Hester"
+ blf-speed-dial 17 6831 label "Kristine Baker"
+ blf-speed-dial 18 6804 label "Lesia Mayhew"
+ blf-speed-dial 19 6800 label "Lisa Harris"
+ blf-speed-dial 20 6809 label "Lisa Young"
+ blf-speed-dial 21 6815 label "Marissa Kuzbyt"
+ blf-speed-dial 22 6817 label "Melissa Jackson"
+ blf-speed-dial 23 6810 label "Mitzi Easter"
+ blf-speed-dial 24 6820 label "Lauren Stovall"
+ blf-speed-dial 25 6823 label "Pearce Dougan"
+ blf-speed-dial 26 6816 label "Robert Taylor"
+ blf-speed-dial 27 6803 label "Sonya Spry"
+ blf-speed-dial 28 6826 label "Stephen Boone"
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ paging-dn 47
+ type 7961GE addon 1 7914 2 7914
+ button  1:178 2:266
+!
+!
+!
+ephone  78
+ device-security-mode none
+ description Burt Conley
+ mac-address 001B.D512.3320
+ ephone-template 2
+ username "burtis_conley" password 12341234
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:179 2:267
+!
+!
+!
+ephone  79
+ device-security-mode none
+ description Vacant
+ mac-address 0019.30D4.F1A7
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:191 2:199
+!
+!
+!
+ephone  80
+ device-security-mode none
+ description Judge Mary Covington
+ mac-address 001B.D47D.9382
+ ephone-template 1
+ username "mary_covington" password 12345
+ paging-dn 45
+ type 7961GE
+ button  1:181
+!
+!
+!
+ephone  81
+ device-security-mode none
+ description Judge April Wood
+ mac-address 001B.D47D.9BF4
+ ephone-template 1
+ username "judge_april_ wood" password 12345
+ paging-dn 45
+ type 7961GE
+ button  1:182
+!
+!
+!
+ephone  82
+ device-security-mode none
+ description Chambers  D Davidson
+ mac-address 001B.D47D.9C0A
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:183
+!
+!
+!
+ephone  83
+ device-security-mode none
+ description Chambers  E Davidson
+ mac-address 001B.D47D.9C9F
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:184
+!
+!
+!
+ephone  84
+ device-security-mode none
+ description Judge Wayne Michael
+ mac-address 001B.D47D.9CDE
+ ephone-template 1
+ username "wayne_michael" password 12345
+ paging-dn 45
+ type 7961GE
+ button  1:185 2s268
+!
+!
+!
+ephone  85
+ device-security-mode none
+ description Barbara Vincente
+ mac-address 0064.40B4.0A63
+ ephone-template 1
+ username "barbara_vincente" password 12345
+ paging-dn 45
+ type 7965
+ button  1:186
+!
+!
+!
+ephone  86
+ device-security-mode none
+ description Chambers C Davidson
+!
+!
+!
+ephone  87
+ device-security-mode none
+ description Rosa Terry
+ mac-address 001B.D47D.904B
+ ephone-template 1
+ username "rosa_terry" password 12345
+ blf-speed-dial 1 6849 label "Wayne Michael"
+ blf-speed-dial 2 6846 label "Penry 6846"
+ blf-speed-dial 3 6847 label "Wood 6847"
+ blf-speed-dial 4 6848 label "Covington 6848"
+ paging-dn 45
+ type 7961GE
+ button  1:188 2:269
+!
+!
+!
+ephone  88
+ device-security-mode none
+ description Paula Teague
+ mac-address 001B.D47D.2020
+ ephone-template 1
+ username "paula_teague" password 12345
+ fastdial 1 919192184333 name xyy
+ blf-speed-dial 1 6849 label "Michael 6849"
+ blf-speed-dial 2 6846 label "Penry 6846"
+ blf-speed-dial 3 6847 label "Wood 6847"
+ blf-speed-dial 4 6848 label "Covington 6848"
+ blf-speed-dial 5 6871 label "Chambers A"
+ blf-speed-dial 6 6870 label "CRTRM A"
+ blf-speed-dial 7 6875 label "Chambers B"
+ blf-speed-dial 8 6874 label "CRTRM B"
+ blf-speed-dial 9 6877 label "Chambers C"
+ blf-speed-dial 10 6876 label "CRTRM C"
+ blf-speed-dial 11 6879 label "Chamber D"
+ blf-speed-dial 12 6878 label "CRTRM D"
+ blf-speed-dial 13 6881 label "Chambers E"
+ blf-speed-dial 14 6880 label "CRTRM E"
+ blf-speed-dial 15 6882 label "CRTRM F"
+ blf-speed-dial 16 6851 label "Custody Mediator"
+ blf-speed-dial 17 6742 label "Jo Black"
+ blf-speed-dial 18 6703 label "Civil CSC"
+ paging-dn 45
+ type 7961GE addon 1 7914
+ button  1:189 2:270
+!
+!
+!
+ephone  89
+ device-security-mode none
+ description Chambers  B Davidson
+ mac-address 001B.D512.3205
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:190
+!
+!
+!
+ephone  90
+ device-security-mode none
+ description Jamie Davis
+ mac-address 001B.D47D.90F9
+ ephone-template 1
+ username "e2426890" password 12345
+ blf-speed-dial 1 6891 label "Laura 6891"
+ blf-speed-dial 2 6893 label "Christy 6893"
+ paging-dn 45
+ type 7961GE
+ button  1:192 2:271 3:67
+!
+!
+!
+ephone  91
+ device-security-mode none
+ description Laura Bodenheimer
+ mac-address 001B.2A20.5AAD
+ ephone-template 1
+ username "e2426891" password oqm58849
+ blf-speed-dial 1 6890 label "Jamie 6890"
+ blf-speed-dial 2 6893 label "Christy 6893"
+ paging-dn 45
+ type 7961GE
+ button  1:193 2:272 3:67
+!
+!
+!
+ephone  92
+ device-security-mode none
+ description Burt Conley
+ mac-address 001B.D5E8.0F8F
+ ephone-template 2
+ username "e2426818" password 12341234
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:179
+!
+!
+!
+ephone  93
+ device-security-mode none
+ description Civil MAG Davidson 
+ mac-address 001B.D512.2933
+ ephone-template 1
+ username "civil_mag_davidson" password 12345
+ paging-dn 45
+ type 7961GE
+ button  1:196
+!
+!
+!
+ephone  94
+ device-security-mode none
+ description Lounge Davidson Crim MAG
+ mac-address 001B.D512.2CA4
+ ephone-template 1
+ speed-dial 1 93362422147 label "Jail 2147"
+ speed-dial 2 93362422105 label "Sheriff"
+ speed-dial 3 93362490131 label "911 Center"
+ paging-dn 45
+ type 7961GE
+ button  1:197 2:274 3:284
+!
+!
+!
+ephone  95
+ device-security-mode none
+ description Office Davidson Crim MAG
+ mac-address 001B.D4AD.C2FA
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+!
+!
+!
+ephone  96
+ device-security-mode none
+ description Data Comm Davidson
+ mac-address 001B.0CDB.A01D
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:200
+!
+!
+!
+ephone  97
+ device-security-mode none
+ description SCJ File Room
+ mac-address 001B.D47D.9C77
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:201
+!
+!
+!
+ephone  98
+ device-security-mode none
+ description Ted Royster 
+ mac-address 001B.D47D.9C83
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:202
+!
+!
+!
+ephone  99
+ device-security-mode none
+ description Jamie Bell
+ mac-address 001B.D47D.90CD
+ ephone-template 1
+ username "jamie_bell" password 12345
+ blf-speed-dial 1 6860 label "Judge Klass"
+ blf-speed-dial 2 6865 label "Judge Royster"
+ blf-speed-dial 3 6862 label "Shirley Leonard"
+ blf-speed-dial 4 6867 label "File Room"
+ blf-speed-dial 5 6863 label "Library"
+ blf-speed-dial 6 6868 label "Conf Room"
+ blf-speed-dial 7 6876 label "Courtroom C"
+ blf-speed-dial 8 6877 label "Chambers C"
+ blf-speed-dial 9 6852 label "Paula Teague"
+ blf-speed-dial 10 2850 label "Rosa Terry"
+ blf-speed-dial 11 6849 label "Judge Michael"
+ blf-speed-dial 12 6710 label "DA"
+ blf-speed-dial 13 6742 label "Jo Black"
+ blf-speed-dial 14 6787 label "Kristy Tarleton"
+ blf-speed-dial 15 6884 label "Joan Yemola"
+ blf-speed-dial 16 6767 label "Brian Shipwash"
+ blf-speed-dial 17 6808 label "Gary Frank"
+ speed-dial 1 92504040 label "Judge Klass-cell"
+ speed-dial 2 92497098 label "Judge Royster-home"
+ paging-dn 45
+ type 7961GE addon 1 7914
+ button  1:203 2:276
+!
+!
+!
+ephone  100
+ device-security-mode none
+ description Shirley Leonard
+ mac-address 001B.D47D.90AF
+ ephone-template 1
+ username "shirley_leonard" password 12345
+ blf-speed-dial 1 6711 label "DCJ"
+ blf-speed-dial 2 6701 label "Clerks Office"
+ blf-speed-dial 3 6859 label "Jamie Bell" device
+ speed-dial 1 92504040 label "Judge Klass cell"
+ paging-dn 45
+ type 7961GE
+ button  1:204 2s277
+!
+!
+!
+ephone  101
+ device-security-mode none
+ description Chambers A Davidson
+ mac-address 001B.D5E8.122F
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:205
+!
+!
+!
+ephone  102
+ device-security-mode none
+ description Davidson SCJ Conf Room
+ mac-address 001B.D512.2D90
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s206 2s208
+!
+!
+!
+ephone  103
+ device-security-mode none
+ description Attorney Workroom Davidson
+ mac-address C07B.BCA0.B7D4
+ ephone-template 1
+ paging-dn 45
+ type 7965
+ button  1:207
+!
+!
+!
+ephone  104
+ device-security-mode none
+ description Judge Mark Klass 1
+ mac-address 001B.D512.303D
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:208
+!
+!
+!
+ephone  105
+ device-security-mode none
+ description Judge Mark Klass 2
+ mac-address 0021.A02B.CC7C
+ ephone-template 1
+ paging-dn 45
+ type 7965
+ button  1:209 2:208
+!
+!
+!
+ephone  106
+ device-security-mode none
+ description Latoya Mitchell
+ mac-address 0019.E8F4.B6CC
+ ephone-template 1
+ blf-speed-dial 1 6710 label "DA Office"
+ speed-dial 1 919198613050 label "DMV"
+ speed-dial 2 92422147 label "Jail 2147"
+ speed-dial 3 92422109 label "Sherrif's Office Records"
+ paging-dn 46
+ type 7961GE
+ button  1:286 2:304
+!
+!
+!
+ephone  107
+ device-security-mode none
+ description RB TEST PHONE 
+ mac-address 0019.30D5.2663
+ ephone-template 3
+ type 7961GE
+ button  1:290 2:291
+!
+!
+!
+ephone  108
+ device-security-mode none
+ description William Harkey
+ mac-address 001B.D5E8.14F8
+ ephone-template 1
+ username "William_Harkey" password 12345
+ paging-dn 46
+ type 7961GE
+ button  1:210
+!
+!
+!
+ephone  109
+ device-security-mode none
+ description Vickie Wolf
+ mac-address 001B.D5E8.1671
+ ephone-template 1
+ type 7961GE
+ button  1:292 2:186
+!
+!
+!
+ephone  110
+ device-security-mode none
+ description Civil MAG Davidson
+ mac-address 001B.0CDB.A44B
+ ephone-template 1
+ username "Civil_mag_David" password 12345
+ speed-dial 1 93362422147 label "Jail 2147"
+ speed-dial 2 93362422105 label "Sheriff"
+ speed-dial 3 93362490131 label "911 Center"
+ paging-dn 45
+ type 7961GE
+ button  1:195 2:302 3:303
+!
+!
+!
+ephone  111
+ device-security-mode none
+ description Susan Payne
+ mac-address 0023.5EB8.2CC2
+ ephone-template 1
+ username "e2426726" password 12345
+ blf-speed-dial 1 6767 label "Brian Shipwash"
+ blf-speed-dial 2 6721 label "Ana Perez"
+ blf-speed-dial 3 6727 label "Derrick Shuler"
+ blf-speed-dial 4 6723 label "Kristi Conrad"
+ blf-speed-dial 5 6722 label "Lee Clontz"
+ blf-speed-dial 6 6724 label "Derrick Ignasiak"
+ blf-speed-dial 7 6742 label "Jo Black"
+ blf-speed-dial 8 6787 label "Kristy Tarleton"
+ blf-speed-dial 9 6770 label "Lia Glover"
+ blf-speed-dial 10 6761 label "Wendi Carter"
+ blf-speed-dial 11 6704 label "CIVIL 6704"
+ blf-speed-dial 12 6706 label "CASHIER 6706"
+ blf-speed-dial 13 6702 label "CRIMINAL 6702"
+ blf-speed-dial 14 6709 label "JUVENILE 6709"
+ blf-speed-dial 15 6709 label "JUVENILE 6709"
+ speed-dial 1 92422243 label "Sheriff's Office"
+ speed-dial 2 92422160 label "Tax office"
+ speed-dial 3 92422150 label "Register of Deeds"
+ paging-dn 46
+ type 7965 addon 1 7916-24
+ button  1:142 2:246
+!
+!
+!
+ephone  112
+ device-security-mode none
+ description Magistrate Davidson
+ mac-address 001B.D512.2EB9
+ ephone-template 1
+ speed-dial 1 93362422243 label "Civil"
+ speed-dial 2 93362422147 label "Jail 2147"
+ speed-dial 3 93362490131 label "911 Center"
+ paging-dn 46
+ type 7961GE
+ button  1:198 2:274 3:285
+!
+!
+!
+ephone  113
+ device-security-mode none
+ description Christy File
+ mac-address 001B.D460.970E
+ ephone-template 1
+ username "e2426893" password 12345
+ speed-dial 1 6891 label "Laura 6891"
+ speed-dial 2 6890 label "Jamie 6890"
+ paging-dn 45
+ type 7961GE
+ button  1:194 2:273 3:67
+!
+!
+!
+ephone  114
+ device-security-mode none
+ description Chambers C Davidson
+ mac-address 189C.5DB6.CD42
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1:187
+!
+!
+!
+ephone  115
+ device-security-mode none
+ description Dominique Caldwell
+ mac-address 0026.CBBD.DA7F
+ ephone-template 2
+ username "e2426834" password 12345
+ speed-dial 1 89198902407 label "AOC Help Desk"
+ paging-dn 47
+ type 7965
+ button  1:278
+!
+!
+!
+ephone  116
+ device-security-mode none
+ description Angela Cole
+ mac-address EC44.761E.3CA7
+ ephone-template 2
+ username "e2426835" password 12345
+ speed-dial 1 94754260 label "Thomasville Police Dept"
+ speed-dial 2 92433331 label "Lexington Police Dept"
+ speed-dial 3 92422105 label "Davidson County Sheriff"
+ paging-dn 47
+ type 7965
+ button  1:279
+!
+!
+!
+ephone  125
+ device-security-mode none
+ description Barefoot Test Phone
+ mac-address 0019.30D5.2627
+ ephone-template 1
+ type 7961
+ button  1:99
+!
+!
+!
+ephone  126
+ device-security-mode none
+ description Barefoot Test CIPC Phone
+ mac-address AAA1.AAA1.1111
+ ephone-template 1
+ type CIPC
+ button  1:99
+!
+!
+!
+ephone  127
+ device-security-mode none
+ description Courtroom D Davidson
+ mac-address 0026.CB3B.EC38
+ ephone-template 1
+ paging-dn 45
+ type 7961GE
+ button  1s118
+!
+!
+!
+ephone  128
+ device-security-mode none
+ description Paige Cogan
+ mac-address EC44.761E.32AE
+ ephone-template 1
+ username "e2426751" password 12345
+ blf-speed-dial 1 6704 label "civil*main"
+ speed-dial 1 6704 label "civil_main"
+ speed-dial 2 6705 label "estates_main"
+ speed-dial 3 6767 label "brian_shipwash"
+ speed-dial 4 6789 label "george_price"
+ speed-dial 5 6702 label "criminal_main"
+ speed-dial 6 6707 label "bookkeeping_main"
+ speed-dial 7 6706 label "cashier_main"
+ paging-dn 46
+ type 7965
+ button  1:305 2:306
+!
+!
+!
+ephone  129
+ device-security-mode none
+ description Savannah McGunigal
+ mac-address 34A8.4EA7.1516
+ ephone-template 1
+ blf-speed-dial 1 6780 label "Taylor"
+ blf-speed-dial 2 6782 label "Brandi"
+ blf-speed-dial 3 6783 label "Darrien"
+ blf-speed-dial 4 6787 label "Kristy"
+ blf-speed-dial 5 6788 label "Susan B"
+ blf-speed-dial 6 6785 label "Maria"
+ blf-speed-dial 7 6784 label "Patricia"
+ blf-speed-dial 8 6789 label "George"
+ blf-speed-dial 9 6786 label "VAcant"
+ blf-speed-dial 10 6706 label "CS"
+ blf-speed-dial 11 6707 label "Book"
+ blf-speed-dial 12 6705 label "Est/SP"
+ blf-speed-dial 13 6702 label "CR"
+ paging-dn 46
+ type 7965 addon 1 7916-24
+ button  1:109 2:219
+!
+!
+!
+ephone  130
+ device-security-mode none
+ description Coe, Karen C.
+ mac-address 203A.0722.0E76
+ ephone-template 2
+ username "Karen_coe" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7965
+ button  1:167 2:261
+!
+!
+!
+ephone  131
+ device-security-mode none
+ description Anne Gould
+ mac-address 0018.19B9.3121
+ ephone-template 2
+ username "anne_gould" password 12345
+ speed-dial 1 92433331 label "Lexington Police Dept"
+ speed-dial 2 92422105 label "Davidson County Sheriff"
+ speed-dial 3 94754260 label "Thomasville Police Dept"
+ speed-dial 4 92422147 label "Jail 2147"
+ speed-dial 5 92496166 label "Probation"
+ paging-dn 47
+ type 7961GE
+ button  1:168 2:262
+!
+!
+!
+ephone  132
+ device-security-mode none
+ description Brooke Swing 6830
+ mac-address 203A.07FD.20F6
+ ephone-template 1
+ username "e2426830" password 12345
+ type 7965
+ button  1:307 2:315
+!
+!
+!
+ephone  133
+ device-security-mode none
+ description Kristine Baker
+ mac-address ACA0.166F.1ACD
+ ephone-template 1
+ type 7965
+ button  1:308 2:314
+!
+!
+!
+ephone  134
+ device-security-mode none
+ description Karen Douglas
+ mac-address 34A8.4EA7.1520
+ ephone-template 1
+ username "e2426832" password 12345
+ fastdial 1 3362433302 name lpd
+ speed-dial 1 3362433302 label "lpd"
+ type 7965
+ button  1:309 2:313
+!
+!
+!
+ephone  135
+ device-security-mode none
+ description DAVWG 6833
+!
+!
+!
+ephone  136
+ device-security-mode none
+ description Sonya Spry
+ mac-address 34A8.4EA7.1728
+ ephone-template 1
+ username "e2426803" password 12345
+ type 7965
+ button  1:311 2:312
+!
+!
+!
+ephone  137
+ device-security-mode none
+ description Evan Grizzard - TEST
+ mac-address 1C17.D3C3.E14A
+ ephone-template 1
+ paging-dn 46
+ type 7965
+ button  1:211
+!
+!
