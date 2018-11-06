@@ -19,7 +19,7 @@ var express = require('express'),
 //from there index calls app.js and that does all the work, but its client side
 //need to figure out how to make the post go here instead
 
-  server.listen(9999, () => {
+  server.listen(8080, () => {
     console.log('listening on 9999')
   })
 

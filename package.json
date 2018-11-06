@@ -1,5 +1,5 @@
 {
-  "name": "cut",
+  "name": "demo-app",
   "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.9.3",
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jeff Levensailor",
+  "author": "Anil Prajapat",
   "license": "MIT"
 }
