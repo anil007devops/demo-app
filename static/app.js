@@ -132,56 +132,49 @@ String.prototype.customChanges = function() {
 
 			//console.log(JSON.stringify(newarr1));
 			//setTimeout(()=>{
-console.log(tempArray2);
+			//console.log(tempArray2);
 
 			tempArray2.map(dt=>{
-				let count = 0;
+				let numArray = [];
+				let toggle3 = false;
 				if(dt.length > 0){
-					let toggle3 = false;
 					let dtNumber2;
 					dt.map((dt2,i)=>{
-						count++;
-						//if(dt2.val != undefined){
-							let dtVal2 = dt2.val.trim();
-						//}
+						let dtVal2 = dt2.val.trim();
 						if(dtVal2.indexOf("description") !== -1){
 							dt.splice(i,1);
 						}
 						if(dtVal2.indexOf("number") !== -1 && dtVal2.indexOf("dn") !== -1){
-							//console.log("----xxxxxxx--------");
 							let newSarray = dtVal2.split(" ");
-							//console.log(newSarray)
 									dtNumber2 = newSarray[newSarray.length - 1];
+									numArray.push({num:dtNumber2});
 									toggle3 = true;
 						}
-
-						let count1 =0;
-						newarr1.map(st=>{
-
-							//console.log("----anil-----: "+dtVal2);
-							//console.log("st num: "+st.number+" dtNumber2: "+dtNumber2);
-							if(toggle3){
-								 //console.log("----anil-----: "+dtVal2);
-								if(st.number == dtNumber2){
-									count1++;
-
-									console.log("---dtNumber2----: " +dtNumber2+" count:> "+count1);
-									//dt2.val = st.description;
-									dt.push({val:st.description});
-									dt.push({val:st.cor_incoming});
-									dtNumber2 = undefined;
-									toggle3 = false;
-									//dt.push({val:"!"});
-								}
-							}
-						})
-
 					})
+				}
+				if(numArray.length != 0){
+					if(toggle3){
+					newarr1.map(st=>{
+							 numArray.map(n=>{
+								 if(n.num == st.number){
+										dt.push({val:st.description});
+	 								  dt.push({val:st.cor_incoming});
+									}
+							 })
+					})
+					//push below 4 lines into every voice register pool
+					dt.push({val:' presence call-list'});
+					dt.push({val:' dtmf-relay rtp-nte sip-notify'});
+					dt.push({val:' voice-class codec 2'});
+					dt.push({val:' busy-trigger-per-button 2'});
+				}
 
 
 					toggle3 = false;
+					numArray = [];
 				}
 				dt.push({val:'!'});
+
 			})
 			//},3000)
 		// generate final string
@@ -189,9 +182,9 @@ console.log(tempArray2);
 		tempArray2.map(dt=>{
 			if(dt.length > 0){
 				dt.map(dt2=>{
-					if(dt2.val != undefined){
+					//if(dt2.val != undefined){
 						result = result + dt2.val + "\n";
-					}
+					//}
 				})
 			}
 		})
